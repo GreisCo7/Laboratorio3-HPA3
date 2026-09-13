@@ -8,7 +8,7 @@ Desarrollar soluciones en C# aplicando los principios de la Programación Orient
 | Tecnología | Versión / Tipo |
 | :--- | :--- |
 | **Lenguaje** | C# (.NET Framework / .NET) |
-| **Entorno de Desarrollo** | Microsoft Visual Studio 2022 |
+| **Entorno de Desarrollo** | Microsoft Visual Studio 2026 |
 | **Interfaz Gráfica** | Windows Forms (Escritorio) |
 | **Control de Versiones** | Git & GitHub |
 
